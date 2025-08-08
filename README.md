@@ -4,7 +4,7 @@ This project analyzes a dataset of student performance using Python in Jupyter N
 
 ## Files
 - **student_performance.csv**: Dataset containing student performance details.
-- **analysis_notebook.ipynb**: Jupyter Notebook with data preprocessing, analysis, and model training.
+- **StudentScorePrediction.ipynb**: Jupyter Notebook with data preprocessing, analysis, and model training.
 
 ## How to Run
 1. Clone the repository:
